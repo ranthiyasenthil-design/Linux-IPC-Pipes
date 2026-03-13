@@ -219,7 +219,7 @@ void client()
 
 
 ## OUTPUT
-![image](images/ex3.2.png)
+[image](images/ex3.2.png)
 
 # RESULT:
 The program is executed successfully.
