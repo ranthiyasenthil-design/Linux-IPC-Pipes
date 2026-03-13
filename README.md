@@ -30,8 +30,7 @@ Testing the C Program for the desired output.
 
 
 ## OUTPUT
-
-
+![image](images/ex3.1.png)
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
 
@@ -39,7 +38,7 @@ Testing the C Program for the desired output.
 
 
 ## OUTPUT
-
+![image](images/ex3.2.png)
 
 # RESULT:
 The program is executed successfully.
