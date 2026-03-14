@@ -105,7 +105,10 @@ void client(int wfd, int rfd)
     buff[n] = '\0';
 
     printf("\nFile Content:\n%s\n", buff);
-}```
+}
+
+
+```
 
 
 
@@ -217,6 +220,7 @@ void client()
 
     close(fifo_fd);
 }
+
 ```
 
 
