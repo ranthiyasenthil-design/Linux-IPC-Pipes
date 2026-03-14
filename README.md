@@ -111,7 +111,10 @@ void client(int wfd, int rfd)
 
 
 ## OUTPUT
-![images](images/ex3.1.png)
+
+![image](image/ex3.1.png)
+
+
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```
 #include <stdio.h>
@@ -219,8 +222,8 @@ void client()
 
 
 ## OUTPUT
+![image](image/ex3.2.png)
 
-![images](images/ex3.2.png)
 
 # RESULT:
 The program is executed successfully.
