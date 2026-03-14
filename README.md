@@ -112,6 +112,8 @@ void client(int wfd, int rfd)
 
 ## OUTPUT
 
+
+
 ![image](image/ex3.1.png)
 
 
@@ -222,6 +224,10 @@ void client()
 
 
 ## OUTPUT
+
+
+
+
 ![image](image/ex3.2.png)
 
 
