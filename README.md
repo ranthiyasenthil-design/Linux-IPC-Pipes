@@ -112,7 +112,7 @@ void client(int wfd, int rfd)
 
 ## OUTPUT
 
-![images](images/ex3.1.png)
+![images](image/ex3.1.png)
 
 
 
@@ -228,7 +228,7 @@ void client()
 
 
 
-![images](images/ex3.2.png)
+![images](image/ex3.2.png)
 
 
 # RESULT:
